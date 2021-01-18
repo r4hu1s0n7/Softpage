@@ -17,8 +17,7 @@ def summarizer(load):
 	data = res.read()
 	data = json.loads(data)
 	sdata="SUMMARY : \n\n"
-	for i in data['snippets']:
-		sdata+='- '+i+'\n'
+	'
 	for i in data['summary'].split('\n'):
 		if len(i)>15:
 			sdata+='- '+i+'\n'
