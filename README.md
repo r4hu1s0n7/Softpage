@@ -9,5 +9,6 @@ Features:
 *Summarising Text
 *Execute/Modify Code
 
-#Online Plagarism Detection Snapshot
-### uses file text3.txt from examples, and shows similarity.
+# Online Plagarism Detection Snapshot
+uses file text3.txt from examples, and shows similarity.
+![Shot1]
