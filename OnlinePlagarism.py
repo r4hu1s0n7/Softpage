@@ -138,8 +138,8 @@ def checkPlagarism(data1):
 			for j in range(i+1,rows):
 
 				if (frame.doc[i] != frame.doc[j]) and (frame.hashes[i] == frame.hashes[j]) and (frame.lines[i] == frame.lines[j]):
-					k.append(frame.lines[i])
-					same += 1
+					k.add(frame.lines[i])
+					
 					break
 				if (frame.hashes[i] != frame.hashes[j]):
 					break
