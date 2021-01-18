@@ -1,0 +1,50 @@
+{
+	"0":{
+		"0":"Enter Topic in Assesment Input Section",
+		"1":"Browse Folder of File in Files Section",
+		"2":"Select File of choice and click Select",
+		"3":"Press GO",
+		"4":"Use previous is same topic",
+		"5":"Searching",
+		"6":"Getting Results",
+		"7":"Checking Content",
+		"8":"Generating Report",
+		"9":"Done."
+	},
+	"1":{
+		"0":"Browse Folder of File in Files Section",
+		"1":"Select File of choice and click Select",
+		"2":"Select Second File in Assesment Input Section",
+		"3":"Press GO",
+		"4":"Status will be visible here",
+		"5":"Checking Files",
+		"6":"Generating Report",
+		"7":"Done."	
+	},
+	"2":{
+		"0":"Enter text in main Text Box",
+		"1":"You can open file as well",
+		"2":"Browse Folder of File in Files Section",
+		"3":"Select File of choice and click Select",
+		"4":"Press GO",
+		"5":"Processing",
+		"6":"Done."		
+	},
+	"3":{
+		"0":"Enter text in main Text Box",
+		"1":"You can open file as well",
+		"2":"Browse Folder of File in Files Section",
+		"3":"Select File of choice and click Select",
+		"4":"Press GO",
+		"5":"Processing",
+		"6":"Done."		
+	},
+	"5":{
+		"0":"Select File of choice and click Select",
+		"1":"Run, Modify, Save Code",
+		"2":"Enter command line input in Assesment Section",
+		"3":"Output will be visible in command prompt",
+		"4":"Supports .c, .cpp, .java, .html, .py currently"
+	}
+
+}
