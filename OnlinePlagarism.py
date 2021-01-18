@@ -14,7 +14,7 @@ def searchAPI(query):
 	conn = http.client.HTTPSConnection("google-search3.p.rapidapi.com")
 	links = []
 	headers = {
-	    'x-rapidapi-key': "921e1d2e2bmsh9e6ff57d02212fep1f88b6jsnfea9b1641599",
+	    'x-rapidapi-key': "YOUR API KEY",
 	    'x-rapidapi-host': "google-search3.p.rapidapi.com"
 	    }
 
