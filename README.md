@@ -16,7 +16,7 @@ uses file text3.txt from examples, and shows similarity.
 
 # Offline Plagarism Detection Snapshot
 uses file text1.txt as source and text2.txt main file from examples and shows similarity.
-![Shot1](https://github.com/r4hu1s0n7/Softpage/blob/main/examples/Screenshot%20(983).png)
+![Shot1](https://github.com/r4hu1s0n7/Softpage/blob/main/examples/Screenshot%20(985).png)
 
 # Summarising Text
 uses file text1.txt from examples and shows summary.
