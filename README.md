@@ -26,6 +26,8 @@ uses file text1.txt from examples and shows summary.
 uses file F12.java from examples and shows output in prompt below.
 ![Shot1](https://github.com/r4hu1s0n7/Softpage/blob/main/examples/Screenshot%20(982).png)
 
+# Pahaphrasing on its wat
+
 
 # Dependencies
 * tkinter
