@@ -20,7 +20,7 @@ uses file text1.txt as source and text2.txt main file from examples and shows si
 
 # Summarising Text
 uses file text1.txt from examples and shows summary.
-![Shot1](https://github.com/r4hu1s0n7/Softpage/blob/main/examples/Screenshot%20(981).png)
+![Shot1](https://github.com/r4hu1s0n7/Softpage/blob/main/examples/Screenshot%20(984).png)
 
 # Shows execution of Code
 uses file F12.java from examples and shows output in prompt below.
