@@ -132,7 +132,7 @@ def checkPlagarism(data1):
 		frame.to_csv(r'supports/frame.csv')
 		frame = pd.read_csv(r'supports/frame.csv')
 		same = 0
-		k=[]
+		k=set()
 		for i in range(rows):
 			
 			for j in range(i+1,rows):
@@ -144,8 +144,11 @@ def checkPlagarism(data1):
 				if (frame.hashes[i] != frame.hashes[j]):
 					break
 			
-			if same == len1:
+			if len(k) == len1:
 				break
+		
+		same = len(k)
+		similarity = same/len1
 	except Exception as e:
 		print(e)
 		return {'e':e,'m':"Error while calculating similarity"}
