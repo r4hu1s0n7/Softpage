@@ -28,4 +28,13 @@ uses file F12.java from examples, and shows similarity.
 
 
 # Dependencies
+* tkinter
+* spacy
+* pandas
+* nltk
+* Beautiful soup
+* en_web_core_sm nlp model for spacy
 
+Api keys from 
+Google Search Rapidapi [https://rapidapi.com/apigeek/api/google-search3]
+Text monkey summariser [https://rapidapi.com/jhtong/api/text-monkey-summarizer]
