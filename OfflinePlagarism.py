@@ -90,13 +90,15 @@ def checkPlagarism(data1,data2):
 			for j in range(i+1,rows):
 				if  (frame.doc[i] != frame.doc[j]) and (frame.hashes[i] == frame.hashes[j]) and (frame.lines[i] == frame.lines[j]):
 					sameones.append(frame.lines[j])
-					same += 1
+					
 					break
 				if (frame.hashes[i] != frame.hashes[j]):
 					break
 			if same == len1 or same == len2:
 				break			
 
+		sameones = set(sameones)
+		same = len(sameones)
 		similarity = same/min(len1,len2)
 	except Exception as e:
 		print(e)
