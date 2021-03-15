@@ -26,7 +26,10 @@ uses file text1.txt from examples and shows summary.
 uses file F12.java from examples and shows output in prompt below.
 ![Shot1](https://github.com/r4hu1s0n7/Softpage/blob/main/examples/Screenshot%20(982).png)
 
-# Pahaphrasing on its way
+# Pahaphrasing
+uses model T5 condotional generator and retruns multiple versions of sentence
+![Shot1](https://github.com/r4hu1s0n7/Softpage/blob/main/examples/Screenshot%20(1083).png)
+
 
 
 # Dependencies
@@ -36,6 +39,7 @@ uses file F12.java from examples and shows output in prompt below.
 * nltk
 * Beautiful soup
 * en_web_core_sm nlp language model for spacy
+* model phraser.pt and its dependencies used in paraphraser.py (if using paraphrasing)
 
 Api used 
 * [Google Search Rapidapi](https://rapidapi.com/apigeek/api/google-search3)
