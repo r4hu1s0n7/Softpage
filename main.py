@@ -251,8 +251,17 @@ class Mains():
 			self.glbl[2]['text'] = self.guide[str(i)]['7']
 
 		elif i == 2:
-			pass
-
+			reads = self.lshow.get('1.0',T.END)
+			if reads == "":
+				messagebox.showinfo('Attention','No Data, Write Something.')
+				self.gclr()
+				return
+			ret = int(self.tinp.get('1.0',T.END))
+			if ret:
+				data = Pr.twistIt(reads,ret)
+			else:
+				data = Pr.twistIt(reads,5)
+			self.show(data)
 		elif i == 3:
 			if reads == "":
 				messagebox.showinfo('Attention','No Data, Write Something.')
