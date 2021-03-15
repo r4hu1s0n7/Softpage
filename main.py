@@ -9,6 +9,7 @@ try:
 	import OfflinePlagarism as Of
 	import Summarizer as Sm
 	import ExecuteProgram as Ep
+	import Paraphraser as Pr
 except Exception as e:
 	print(e)
 
