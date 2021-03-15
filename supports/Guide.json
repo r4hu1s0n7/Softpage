@@ -1,6 +1,6 @@
 {
 	"0":{
-		"0":"Enter Topic in Assesment Input Section",
+		"0":"Enter Topic in Query box",
 		"1":"Browse Folder of File in Files Section",
 		"2":"Select File of choice and click Select",
 		"3":"Press GO",
@@ -14,7 +14,7 @@
 	"1":{
 		"0":"Browse Folder of File in Files Section",
 		"1":"Select File of choice and click Select",
-		"2":"Select Second File in Assesment Input Section",
+		"2":"Select Second File in Query box",
 		"3":"Press GO",
 		"4":"Status will be visible here",
 		"5":"Checking Files",
@@ -23,9 +23,9 @@
 	},
 	"2":{
 		"0":"Enter text in main Text Box",
-		"1":"You can open file as well",
-		"2":"Browse Folder of File in Files Section",
-		"3":"Select File of choice and click Select",
+		"1":"Enter total versions of text expected in Query Box",
+		"2":"No file support for paraphrasing",
+		"3":"Text area will have expectyed version of texts",
 		"4":"Press GO",
 		"5":"Processing",
 		"6":"Done."		
@@ -42,7 +42,7 @@
 	"5":{
 		"0":"Select File of choice and click Select",
 		"1":"Run, Modify, Save Code",
-		"2":"Enter command line input in Assesment Section",
+		"2":"Enter command line input in Query box",
 		"3":"Output will be visible in command prompt",
 		"4":"Supports .c, .cpp, .java, .html, .py currently"
 	}
