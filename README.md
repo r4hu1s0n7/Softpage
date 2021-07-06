@@ -10,6 +10,8 @@ Features:
 * Summarising Text
 * Execute/Modify Code
 
+## Here is blog explaining working of [Softpage](https://r4hu1s0n7.hashnode.dev/softpage-and-how-its-made)
+
 # Online Plagarism Detection Snapshot
 uses file text3.txt from examples, and shows similarity.
 ![Shot1](https://github.com/r4hu1s0n7/Softpage/blob/main/examples/Screenshot%20(980).png)
