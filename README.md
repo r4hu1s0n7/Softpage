@@ -14,23 +14,26 @@ Features:
 
 # Online Plagarism Detection Snapshot
 uses file text3.txt from examples, and shows similarity.
-![Shot1](https://github.com/r4hu1s0n7/Softpage/blob/main/examples/Screenshot%20(980).png)
+![Screenshot (980)](https://github.com/r4hu1s0n7/Softpage/assets/40057302/eb47e9ca-09d8-4800-9ff3-ef71b06eaac4)
 
 # Offline Plagarism Detection Snapshot
 uses file text1.txt as source and text2.txt main file from examples and shows similarity.
-![Shot1](https://github.com/r4hu1s0n7/Softpage/blob/main/examples/Screenshot%20(985).png)
+![Screenshot (985)](https://github.com/r4hu1s0n7/Softpage/assets/40057302/0905c63d-9ae9-4991-85b5-478fec487a3a)
+
 
 # Summarising Text
 uses file text1.txt from examples and shows summary.
-![Shot1](https://github.com/r4hu1s0n7/Softpage/blob/main/examples/Screenshot%20(984).png)
+![Screenshot (984)](https://github.com/r4hu1s0n7/Softpage/assets/40057302/cba1426c-c00c-4403-9f1f-e6525dc850dc)
 
 # Shows execution of Code
 uses file F12.java from examples and shows output in prompt below.
-![Shot1](https://github.com/r4hu1s0n7/Softpage/blob/main/examples/Screenshot%20(982).png)
+![Screenshot (982)](https://github.com/r4hu1s0n7/Softpage/assets/40057302/8d7c062a-ba52-4ddd-9afb-1c5b9d7c028b)
+
 
 # Pahaphrasing
 uses model T5 condotional generator and retruns multiple versions of sentence
-![Shot1](https://github.com/r4hu1s0n7/Softpage/blob/main/examples/Screenshot%20(1083).png)
+![Screenshot (1083)](https://github.com/r4hu1s0n7/Softpage/assets/40057302/a4d5df67-faef-4480-a265-f35c2d8f0089)
+
 
 
 
